@@ -1,0 +1,4 @@
+.vscode/
+solution
+!*/solution.cpp
+*.code-workspace
